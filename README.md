@@ -10,6 +10,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_data_analysis_intro/)
 
+在這個課程中，我們會簡單的介紹 Python 的三個資料分析的基礎套件：
+
+* 資料科學基礎套件：numpy
+* 繪圖基礎套件：matplotlib
+* 資料分析基礎套件：pandas
+
 ### 1. 文件導覽
 
 * [numpy](https://numpy.org/)
